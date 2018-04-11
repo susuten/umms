@@ -1,0 +1,32 @@
+.nav {
+		box-sizing: border-box;
+		float: left;
+		width: 20%;
+		height: 100%;
+		border-right: 5px solid #ccc;
+	}
+
+	.nav > ul {
+		font-size: 16px;
+	}
+	
+	.nav > ul > li {
+		width: 100%;
+		height: 80px;
+		border-bottom: 1px solid #ccc;
+		text-align: center;
+		line-height: 80px;
+	}
+	
+	.nav > ul > li > a {
+		display: block;
+		width: 100%;
+		height: 100%;
+		color: #13424d;
+	}
+	
+	.nav > ul > li >a:hover {
+		background: #eee;
+		color: #94a0a7;
+	}
+	

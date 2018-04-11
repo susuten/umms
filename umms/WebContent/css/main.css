@@ -1,0 +1,20 @@
+.main {
+	height: 800px;
+	width: 100%;
+}
+
+.main > .content {
+	box-sizing: border-box;
+	float: left;
+	width: 80%;
+	height: 100%;
+	padding-top: 22px;
+	background-color: #e1dfdf4a;
+}
+
+.main > .content h4 {
+	text-align: center;
+	font-size: 18px;
+	font-weight: 1.2;
+	line-height: 72px;
+}

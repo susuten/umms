@@ -1,0 +1,39 @@
+.content > .mod-user {
+	margin-top: 20px;
+	border-top: 1px dashed #ccc;
+}
+
+.content > .mod-user table {
+	margin-top: 30px;
+}
+
+.content > .mod-user {
+	margin-top: 20px;
+	border-top: 1px dashed #ccc;
+}
+.content > .mod-user table th {
+	font-size: 15px;
+	color: #60abd5;
+}
+
+.content > .mod-user table .input-text {
+	width: 200px;
+	height: 30px;
+	border: 1px solid #ccc;
+	padding-left: 10px;
+}
+
+.content > .mod-user table .btn {
+	width: 72px;
+	height: 30px;
+	color: #fff;
+	border: 1px solid #ccc;
+	background: #60abd5;
+	border-radius: 2px;
+	margin: 0 10px;
+}
+
+.content > .mod-user table .btn:hover {
+	background: #ccc;
+}
+

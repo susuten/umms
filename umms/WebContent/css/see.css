@@ -1,0 +1,55 @@
+.content > .see-user {
+	margin-top: 20px;
+	border-top: 1px dashed #ccc;
+}
+
+.content > .see-user ul {
+	padding-left: 10%;
+	font-size: 16px;
+}
+
+.content > .see-user ul > li {
+	width: 300px;
+	height: 50px;
+	line-height: 50px;
+	border-bottom: 1px dashed #ccc;
+}
+.content > .see-user ul > li > a:hover,
+.content > .see-user ul > li.inmsg > #wenben:hover {
+	color: #aaa;
+}
+
+.content > .see-user ul > li.inmsg {
+	position: relative;
+	cursor: pointer;
+}
+
+.content > .see-user ul > li > a,
+.content > .see-user ul > li.inmsg > #wenben{
+	color: #555;
+}
+
+.content > .see-user ul .seeform{
+	position: absolute;
+	top: -1px;
+	left: 1px;
+	display: none;
+}
+
+.content > .see-user ul .seeform .inputName {
+	width: 180px;
+	height: 30px;
+	border: 1px solid #60abd5;
+	box-sizing: border-box;
+	margin-right: 5px;
+	padding-left: 10px;
+}
+
+.content > .see-user ul .seeform .sub {
+	height: 30px;
+	width: 30px;
+	box-sizing: border-box;
+	color: #fff;
+	border: 1px solid #60abd5;
+	background: #60abd5;
+}

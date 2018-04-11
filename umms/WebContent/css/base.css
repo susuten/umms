@@ -1,0 +1,44 @@
+* {
+	margin: 0;
+	padding: 0;
+}
+
+body {
+	font-size: 14px;
+	font-family: "Times New Roman","Microsoft Yahei","Simsun";
+}
+
+a {
+	text-decoration: none;
+}
+
+body {
+	position: relative;
+}
+
+.container {
+	width: 1100px;
+	margin: 0 auto;
+	height: 100%;
+}
+
+ul, ol {
+	list-style: none;
+}
+
+table {
+	margin: 0 auto;
+	border-collapse: collapse;
+	text-align: center;
+}
+
+th, td {
+	margin-bottom: 27px;
+	width:100px;
+	height: 50px;
+}
+
+a {
+	text-decoration: none;
+}
+

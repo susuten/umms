@@ -1,0 +1,18 @@
+.header {
+	width: 100%;
+	height: 70px;
+	background-color: #60abd5;
+}
+.header > .container > h3 {
+	float: left;
+	font-size: 24px;
+	line-height: 70px;
+	color: #fff;
+}
+
+.header > .container > p {
+	float: right;
+	font-size: 20px;
+	line-height: 70px;
+	color: #fff;
+}

@@ -1,0 +1,8 @@
+.content > .mod-user {
+	margin-top: 20px;
+	border-top: 1px dashed #ccc;
+}
+
+.content > .mod-user table {
+	margin-top: 30px;
+}

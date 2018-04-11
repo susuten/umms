@@ -1,0 +1,10 @@
+.footer {
+		height: 50px;
+		width: 100%;
+		background-color: #60abd5
+	}
+.footer > .container > p {
+	text-align: center;
+	color: #fff;
+	line-height: 50px;
+}
